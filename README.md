@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# :wave: שלום! אני שושנה
+:desktop_computer: מפתחת תוכנה עם חשיבה אנליטית וניסיון ב-[C#, .NET, WPF, TypeScript, Node.js, React]
+:open_file_folder: README זה מספק סקירה כללית של כל הריפוזיטוריות שלי ב-GitHub.
+---
+## :star2: עליי
+- :dart: תחומי עניין: פיתוח אפליקציות שולחניות, אתרי אינטרנט, Backend ו-API
+- :bulb: מטרתי: ליצור קוד נקי, מאורגן ומועיל ללמידה ולפרויקטים מעשיים
+---
+## :card_index_dividers: סוגי פרויקטים בריפוזיטוריות שלי
+| סוג | תיאור קצר |
+|-----|------------|
+| **WPF / C#** | אפליקציות שולחניות ולימוד UI עם MVVM |
+| **Backend / Node.js / NestJS** | שירותי REST API ומסדי נתונים |
+| **Frontend / React / Angular** | ממשקי משתמש אינטראקטיביים |
+| **פרויקטים ללמידה** | תרגולים, ניסויים ולמידת טכנולוגיות חדשות |
+---
+## :rocket: איך להשתמש
+כל ריפוזיטורי מכיל README משלו עם הוראות התקנה ושימוש.
+כאן זה רק **סקירה כללית** של התוכן והטכנולוגיות.
+---
+## :wrench: טכנולוגיות עיקריות
+- C#, .NET, WPF
+- TypeScript, Node.js, NestJS
+- React, Angular
+- SQL Server, PostgreSQL
+- Git / GitHub
+---
+## :books: מבנה כללי של הפרויקטים
