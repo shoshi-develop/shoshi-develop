@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # :wave: שלום! אני שושנה
-:desktop_computer: מפתחת תוכנה עם חשיבה אנליטית וניסיון ב-[C#, .NET, TypeScript, Node.js, React]
+:desktop_computer: מפתחת תוכנה עם חשיבה אנליטית וניסיון ב-[java, .NET, TypeScript, Node.js, React]
 :open_file_folder: README זה מספק סקירה כללית של כל הריפוזיטוריות שלי ב-GitHub.
 ---
 ## :star2: עליי
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## :card_index_dividers: סוגי פרויקטים בריפוזיטוריות שלי
 | סוג | תיאור קצר |
 |-----|------------|
-| **C#** | אפליקציות שולחניות ולימוד UI עם MVVM |
+| **java** | אפליקציות שולחניות ולימוד UI עם MVVM |
 | **Backend / Node.js / NestJS** | שירותי REST API ומסדי נתונים |
 | **Frontend / React / Angular** | ממשקי משתמש אינטראקטיביים |
 | **פרויקטים ללמידה** | תרגולים, ניסויים ולמידת טכנולוגיות חדשות |
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 כאן זה רק **סקירה כללית** של התוכן והטכנולוגיות.
 ---
 ## :wrench: טכנולוגיות עיקריות
-- C#, .NET
+- java, .NET
 - TypeScript, Node.js, NestJS
 - React, Angular
 - SQL Server, PostgreSQL
